@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Javascript, Java and PHP
 - 📕 Self-taught through Harvard CS50, CS50Web and The Odin Project
 - 🌏 Looking to contribute in your React projects
+- 💻 Currently Freelance Digital consultant (Marketing Strategy, E-Commerce & Data Analysis)
 - 📫 How to reach me: business@clementhurel.fr
 <br /><br />
 <h3 align="center">Connect with me:</h3>
