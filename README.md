@@ -10,12 +10,16 @@
 - 💻 Currently Freelance Digital consultant (Marketing Strategy, E-Commerce & Data Analysis)
 - 📫 How to reach me: business@clementhurel.fr
 <br /><br />
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- <a href="https://www.linkedin.com/in/churel/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrlclem" height="30" width="40" /></a>
-<a href="https://discord.gg/www.discordapp.com/users/379565351555432449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="www.discordapp.com/users/379565351555432449" height="30" width="40" /></a>
+ <a target="_blank" href="https://www.linkedin.com/in/churel/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrlclem" height="30" width="40" /></a>
+<a target="_blank"href="https://www.discordapp.com/users/379565351555432449"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="www.discordapp.com/users/379565351555432449" height="30" width="40" /></a>
 </p>
+
 <br />
+
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center">
