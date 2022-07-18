@@ -1,4 +1,4 @@
-### Hi I'm Clément 👋👨🏻‍💻
+### Hi, I'm Clément 👋👨🏻‍💻
 ## A passionate self-taught Software Engineer based in Tokyo 🗼
 
 <br />
