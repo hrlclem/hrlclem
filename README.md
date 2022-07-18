@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Clément, an aspiring Software Engineer based in Tokyo 👋
 
 - 🔭 Every day is a learning day.
 - 🌱 I’m currently learning Javascript, Java and PHP
