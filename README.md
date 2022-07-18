@@ -6,7 +6,7 @@
 - 🔭 Every day is a learning day
 - 🌱 I’m currently learning Javascript, Java and PHP
 - 📕 Self-taught through Harvard CS50, CS50Web and The Odin Project
-- 🌏 Looking to contribute in interesting React projects
+- 🌏 Looking to contribute in your React projects
 - 📫 How to reach me: business@clementhurel.fr
 <br /><br />
 <h3 align="center">Connect with me:</h3>
