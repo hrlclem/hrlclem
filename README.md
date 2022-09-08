@@ -4,7 +4,7 @@
 <br />
 
 - 🔭 Every day is a learning day
-- 🌱 I’m currently learning Javascript, Java and PHP
+- 🌱 I’m currently learning Javascript, Python and Java
 - 📕 Self-taught through Harvard CS50, CS50Web and The Odin Project
 - 🌏 Looking to contribute in your React projects
 - 💻 Currently Freelance Digital consultant (Marketing Strategy, E-Commerce & Data Analysis)
