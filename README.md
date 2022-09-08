@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Javascript, Python and Java
 - 📕 Self-taught through Harvard CS50, CS50Web and The Odin Project
 - 💻 Currently Freelance Digital consultant (Marketing Strategy, E-Commerce & Data Analysis)
-- 🥑 Currently volunteering at Mamory web app as Front-End Developer 
+- 🥑 Also volunteering at Mamory web app as Front-End Developer 
 - 🌏 Looking to contribute in your React projects
 - 📫 How to reach me: business@clementhurel.fr
 <br /><br />
