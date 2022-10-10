@@ -5,7 +5,7 @@
 
 - 🔭 Every day is a learning day
 - 🌱 I’m currently learning Javascript, Python and Java
-- 📕 Self-taught through Harvard CS50, CS50Web and The Odin Project
+- 📕 Self-taught through Harvard CS50, The Odin Project Bootcamp and CS50Web 
 - 💻 Currently Freelance Digital consultant (Marketing Strategy, E-Commerce & Data Analysis)
 - 🥑 Also volunteering at Mamory web app as Front-End Developer 
 - 🌏 Looking to contribute in your React projects
