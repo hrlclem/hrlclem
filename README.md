@@ -4,7 +4,7 @@
 <br />
 
 - 🔭 Every day is a learning day
-- 🌱 I’m currently learning Javascript, MERN stack and PHP
+- 🌱 I’m currently learning Javascript, PHP and developping DevOps abiltiies.
 - 📕 Self-taught through Harvard CS50, The Odin Project Bootcamp and CS50Web 
 - 💻 Currently Freelance Digital consultant (Digital Marketing Strategy and E-commerce website development)
 - 🥑 Also volunteering at Mamory web app as Front-End Developer 
