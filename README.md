@@ -3,11 +3,11 @@
 
 <br />
 
-- 🔭 Every day is a learning day
+- 🔭 Every day is a learning day - [My Portfolio Website](https://www.clementhurel.fr)
 - 🌱 I’m currently learning Javascript, PHP and developping DevOps abilities.
 - 📕 Self-taught through Harvard CS50, The Odin Project Bootcamp and CS50Web 
 - 💻 Currently Freelance Digital consultant (Digital Marketing Strategy and E-commerce website development)
-- 🥑 Also volunteering at Mamory web app as Front-End Developer 
+- 🥑 Also volunteering at Mamoru web app as Front-End Developer 
 - 🌏 Looking to contribute in your React projects
 - 📫 How to reach me: business@clementhurel.fr
 <br /><br />
@@ -31,6 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
