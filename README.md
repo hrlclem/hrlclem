@@ -3,7 +3,7 @@
 
 <br />
 
-- 🔭 Every day is a learning day - [My Portfolio Website](https://www.clementhurel.fr)
+- 🔭 Every day is a learning day - [My Portfolio Website](https://www.clementhurel.fr){:target="_blank" rel="noopener"}
 - 🌱 I’m currently learning Javascript, PHP and developping DevOps abilities.
 - 📕 Self-taught through Harvard CS50, The Odin Project Bootcamp and CS50Web 
 - 💻 Currently Freelance Digital consultant (Digital Marketing Strategy and E-commerce website development)
@@ -15,8 +15,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- <a target="_blank" href="https://www.linkedin.com/in/churel/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrlclem" height="30" width="40" /></a>
-<a target="_blank"href="https://www.discordapp.com/users/379565351555432449"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="www.discordapp.com/users/379565351555432449" height="30" width="40" /></a>
+ <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/churel/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrlclem" height="30" width="40" /></a>
+<a target="_blank" rel="noopener" href="https://www.discordapp.com/users/379565351555432449"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="www.discordapp.com/users/379565351555432449" height="30" width="40" /></a>
 </p>
 
 <br />
