@@ -4,7 +4,7 @@
 <br />
 
 - 🔭 Every day is a learning day - [My Portfolio Website](https://www.clementhurel.fr)
-- 🌱 I’m currently learning Javascript, PHP and developping DevOps abilities.
+- 🌱 I’m currently learning React, Typescript and developping DevOps abilities.
 - 📕 Self-taught through Harvard CS50, The Odin Project Bootcamp and CS50Web 
 - 💻 Currently Freelance Digital consultant (Digital Marketing Strategy and E-commerce website development)
 - 🥑 Also volunteering at Mamoru web app as Front-End Developer 
