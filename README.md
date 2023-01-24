@@ -1,11 +1,12 @@
-### Hi, I'm Clément - クレモン 👋👨🏻‍💻
-## A passionate self-taught Software Engineer based in Tokyo 🗼
+## Hi, I'm Clément - クレモン 👋👨🏻‍💻
+### A passionate self-taught Software Engineer based in Tokyo 🗼
 
 <br />
 
-- 🔭 Every day is a learning day - [My Portfolio Website](https://www.clementhurel.fr)
-- 🌱 I’m currently learning React, Typescript and developping DevOps abilities.
-- 📫 How to reach me: business@clementhurel.fr
+- 🔭 Every day is a learning day.
+- 📕 [My Portfolio Website](https://www.clementhurel.fr)
+- 💻 I’m currently developping React and TypeScript skills.
+- 🌏 How to reach me: business@clementhurel.fr
 <br /><br />
 
 
