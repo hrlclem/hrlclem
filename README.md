@@ -5,10 +5,6 @@
 
 - 🔭 Every day is a learning day - [My Portfolio Website](https://www.clementhurel.fr)
 - 🌱 I’m currently learning React, Typescript and developping DevOps abilities.
-- 📕 Self-taught through Harvard CS50, The Odin Project and CS50Web 
-- 💻 Currently Freelance Digital consultant (Digital Marketing Strategy and E-commerce website development)
-- 🥑 Also volunteering at Mamoru web app as Front-End Developer 
-- 🌏 Looking to contribute in your React projects
 - 📫 How to reach me: business@clementhurel.fr
 <br /><br />
 
@@ -39,20 +35,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+
+
+<!---    
+
 <br />
-
-
 <br />
 
 ## 
 
-
 <h3 align="center">My stats:</h3>
-
-<div align="center">
-<!---    <img src="https://github-readme-stats.vercel.app/api?username=hrlclem"/>&nbsp;--->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hrlclem"/>&nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hrlclem&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>&nbsp;
-</div>
+  </div>
+
 <br />
 
+--->
 
