@@ -4,8 +4,8 @@
 <br />
 
 - 🔭 Every day is a learning day.
-- 📕 [My Portfolio Website](https://www.clementhurel.fr)
-- 💻 I’m currently developping React and TypeScript skills.
+- 💻 [My Portfolio Website](https://www.clementhurel.fr)
+- 🌱 I’m currently developping React and TypeScript skills.
 - 🌏 How to reach me: business@clementhurel.fr
 <br /><br />
 
