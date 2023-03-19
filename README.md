@@ -5,7 +5,7 @@
 <br />
 
 - 🌊 Working for [TableCheck](https://www.tablecheck.com/en/japan).
-- 💻 To check my [Portfolio Website](https://www.clementhurel.fr).
+- 💻 Check my [Portfolio Website](https://www.clementhurel.fr).
 - 🌱 I’m currently developping React and TypeScript skills.
 - 🌏 How to reach me: business@clementhurel.fr
 <br /><br />
