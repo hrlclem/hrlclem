@@ -1,10 +1,11 @@
-## Hi, I'm Clément - クレモン 👋👨🏻‍💻
-### A passionate self-taught Software Engineer based in Tokyo 🗼
+## Hi, I'm Clément - クレモン 👨🏻‍💻
+
+### A passionate self-taught Frontend Engineer based in Tokyo 🇯🇵
 
 <br />
 
-- 🔭 Every day is a learning day.
-- 💻 [My Portfolio Website](https://www.clementhurel.fr)
+- 🌊 Working for [TableCheck](https://www.tablecheck.com/en/japan).
+- 💻 To check my [Portfolio Website](https://www.clementhurel.fr).
 - 🌱 I’m currently developping React and TypeScript skills.
 - 🌏 How to reach me: business@clementhurel.fr
 <br /><br />
@@ -13,7 +14,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
  <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/churel/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrlclem" height="30" width="40" /></a>
-<a target="_blank" rel="noopener" href="https://www.discordapp.com/users/379565351555432449"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="www.discordapp.com/users/379565351555432449" height="30" width="40" /></a>
 </p>
 
 <br />
@@ -27,14 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
 
