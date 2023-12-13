@@ -1,12 +1,10 @@
 ## Hi, I'm Clément - クレモン 👨🏻‍💻
 
-### A passionate self-taught Frontend Engineer based in Tokyo 🇯🇵
+### Frontend Engineer based in Tokyo 🇯🇵
 
 <br />
 
 - 🌊 Working for [TableCheck](https://www.tablecheck.com/en/japan).
-- 💻 Check my [Portfolio Website](https://www.clementhurel.fr).
-- 🌱 I’m currently developping React and TypeScript skills.
 - 🌏 How to reach me: business@clementhurel.fr
 <br /><br />
 
@@ -18,6 +16,7 @@
 
 <br />
 
+<!---
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center">
@@ -31,9 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
-
-<!---    
 
 <br />
 <br />
