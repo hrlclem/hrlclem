@@ -1,6 +1,6 @@
 ## Hi, I'm Clément - クレモン 👨🏻‍💻
 
-### Frontend Engineer based in Tokyo 🇯🇵
+### Frontend Engineer based in Miyakojima and Tokyo 🇯🇵
 
 <br />
 
