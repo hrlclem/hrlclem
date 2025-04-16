@@ -5,7 +5,7 @@
 <br />
 
 - 🌊 Working for [TableCheck](https://www.tablecheck.com/en/japan).
-- 🌏 How to reach me: business@clementhurel.fr
+- 🌏 How to reach me: clement.hurel00@gmail.com
 <br /><br />
 
 
