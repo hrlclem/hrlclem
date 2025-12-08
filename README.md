@@ -1,11 +1,11 @@
 ## Hi, I'm Clément - クレモン 👨🏻‍💻
 
-### Frontend Engineer based in Miyakojima and Tokyo 🇯🇵
+### Software Engineer based in Miyakojima 🇯🇵🏝️
 
 <br />
 
-- 🌊 Working for [TableCheck](https://www.tablecheck.com/en/japan).
-- 🌏 How to reach me: clement.hurel00@gmail.com
+- 🌊 Working for [TableCheck](https://www.tablecheck.com/en/japan) 🟣
+- 🌏 How to reach me: https://www.linkedin.com/in/churel
 <br /><br />
 
 
