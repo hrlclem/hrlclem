@@ -4,6 +4,6 @@
 
 <br />
 
-- 🌊 Working for [TableCheck](https://www.tablecheck.com/en/japan) 🟣
+- 🌊 Working for [TableCheck](https://www.tablecheck.com/en/japan) 
 - 🌏 How to reach me: https://www.linkedin.com/in/churel
 <br /><br />
